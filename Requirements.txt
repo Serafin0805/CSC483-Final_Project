@@ -1,0 +1,6 @@
+kagglehub==0.3.12
+pandas==2.2.3
+nltk==3.9.1
+certifi==2025.4.26
+openai==1.77.0
+pyarrow==20.0.0
